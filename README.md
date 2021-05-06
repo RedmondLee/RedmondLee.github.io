@@ -5,7 +5,7 @@
 A website simulating linux system's GUI, using theme of Deepin distro. You can write blogs with markdown and use it to serve your own technical resumes.
 
 #### [中文文档](https://github.com/GoodManWEN/GoodManWEN.github.io/blob/main/misc/readme_chs.md)
-
+ 
 ## Quick Start
 This project is designed to be host on github pages, but nevertheless some people will want to self-host it, then you should follow these steps:
 ```
